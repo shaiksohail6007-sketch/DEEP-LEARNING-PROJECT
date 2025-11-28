@@ -106,6 +106,25 @@ Predicted: 4
 Predicted: 1
 These outputs verify the model’s ability to correctly classify unseen images.
 
+project structure:
+deep_learning_project
+│
+├── deep_learning_model.py        # Main TensorFlow training + testing script
+├── model.h5                      # Saved trained model (optional if you save)
+├── accuracy_plot.png             # Training vs Validation Accuracy Graph
+├── loss_plot.png                 # Training vs Validation Loss Graph
+├── predictions.png               # Random Predictions Visualization
+│
+├── README.md                     # Full documentation for Task 2
+│
+├── tfenv/                        # Virtual environment folder
+│   ├── Lib/
+│   ├── Scripts/
+│   └── pyvenv.cfg
+│
+└── requirements.txt              # (Optional) List of all pip dependencies
+
+
 How to Run the Project
 1. Activate virtual environment
 tfenv\Scripts\activate
