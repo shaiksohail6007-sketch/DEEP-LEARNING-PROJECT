@@ -1,11 +1,22 @@
 # DEEP-LEARNING-PROJECT
 
+*COMPANY: CODTECH IT SOLUTION
+
+*NAME: SHAIK SOHAIL
+
+*INTERN ID: CT04DR1947
+
+*DOMAIN: DATA SCIENCE
+
+*DURATION: 4 WEEKS
+
+*MENTOR: NEELA SANTHOSH
+
 #Deep Learning Project, where the objective is to build a functional deep learning model for image classification using TensorFlow. Deep learning plays a transformative role in today’s technology landscape by enabling machines to learn directly from images, text, sound, and more. The goal of this project is to demonstrate how neural networks can be trained to classify images accurately using the MNIST handwritten digits dataset, one of the most popular benchmark datasets in the deep learning domain.
 
 This task includes model development, training, evaluation, visualization of accuracy and loss graphs, and testing the model on unseen data. The result is a complete working deep learning pipeline, suitable for real-world AI applications.
 
-🎯 Task Objective
-
+Task Objective
 To implement a deep learning model using TensorFlow.
 
 To work with an image classification dataset (MNIST).
