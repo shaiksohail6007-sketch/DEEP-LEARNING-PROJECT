@@ -130,3 +130,6 @@ The project highlights essential AI development skills, including dataset handli
 
 #OUTPUT
 
+<img width="1002" height="587" alt="Image" src="https://github.com/user-attachments/assets/f0bb696f-13b0-4823-adad-a6f65f0fb82e" />
+<img width="752" height="587" alt="Image" src="https://github.com/user-attachments/assets/fcc77069-e168-46e4-a444-5e51c4d91a11" />
+<img width="752" height="587" alt="Image" src="https://github.com/user-attachments/assets/34bdc4ff-113d-49b0-808e-150269cd5023" />
